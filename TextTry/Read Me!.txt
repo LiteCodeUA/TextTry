@@ -1,0 +1,9 @@
+Copyright (c) 2022 Evgeniy Tryhub
+
+Аll rights reserved
+Всі права захищено
+
+TextTry - простий текстовий редактор створений на Python, на бібліотеці tkinter.
+Працює навіть на дуже слабих комп'ютерах та ноутбуках.
+
+Created by LiteCode (Evgeniy Tryhub)
